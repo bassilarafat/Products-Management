@@ -1,0 +1,80 @@
+E:\c sharp\Products Management\obj\Debug\net5.0-windows\Products Management.csprojAssemblyReference.cache
+E:\c sharp\Products Management\obj\Debug\net5.0-windows\Products Management.GeneratedMSBuildEditorConfig.editorconfig
+E:\c sharp\Products Management\obj\Debug\net5.0-windows\Products Management.AssemblyInfoInputs.cache
+E:\c sharp\Products Management\obj\Debug\net5.0-windows\Products Management.AssemblyInfo.cs
+E:\c sharp\Products Management\obj\Debug\net5.0-windows\Products Management.csproj.CoreCompileInputs.cache
+E:\c sharp\Products Management\obj\Debug\net5.0-windows\Products_Management.PL.Frm_login.resources
+E:\c sharp\Products Management\obj\Debug\net5.0-windows\Products Management.csproj.GenerateResource.cache
+E:\c sharp\Products Management\bin\Debug\net5.0-windows\Products Management.exe
+E:\c sharp\Products Management\bin\Debug\net5.0-windows\Products Management.deps.json
+E:\c sharp\Products Management\bin\Debug\net5.0-windows\Products Management.runtimeconfig.json
+E:\c sharp\Products Management\bin\Debug\net5.0-windows\Products Management.runtimeconfig.dev.json
+E:\c sharp\Products Management\bin\Debug\net5.0-windows\Products Management.dll
+E:\c sharp\Products Management\bin\Debug\net5.0-windows\ref\Products Management.dll
+E:\c sharp\Products Management\bin\Debug\net5.0-windows\Products Management.pdb
+E:\c sharp\Products Management\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+E:\c sharp\Products Management\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+E:\c sharp\Products Management\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+E:\c sharp\Products Management\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+E:\c sharp\Products Management\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\c sharp\Products Management\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\c sharp\Products Management\obj\Debug\net5.0-windows\Products Management.csproj.CopyComplete
+E:\c sharp\Products Management\obj\Debug\net5.0-windows\Products Management.dll
+E:\c sharp\Products Management\obj\Debug\net5.0-windows\ref\Products Management.dll
+E:\c sharp\Products Management\obj\Debug\net5.0-windows\Products Management.pdb
+E:\c sharp\Products Management\obj\Debug\net5.0-windows\Products Management.genruntimeconfig.cache
+E:\c sharp\Products Management\obj\Debug\net5.0-windows\Products_Management.PL.FRM_MAIN.resources
+E:\c#\Products Management\bin\Debug\net5.0-windows\Products Management.exe
+E:\c#\Products Management\bin\Debug\net5.0-windows\Products Management.deps.json
+E:\c#\Products Management\bin\Debug\net5.0-windows\Products Management.runtimeconfig.json
+E:\c#\Products Management\bin\Debug\net5.0-windows\Products Management.runtimeconfig.dev.json
+E:\c#\Products Management\bin\Debug\net5.0-windows\Products Management.dll
+E:\c#\Products Management\bin\Debug\net5.0-windows\ref\Products Management.dll
+E:\c#\Products Management\bin\Debug\net5.0-windows\Products Management.pdb
+E:\c#\Products Management\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+E:\c#\Products Management\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+E:\c#\Products Management\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+E:\c#\Products Management\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+E:\c#\Products Management\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\c#\Products Management\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\c#\Products Management\obj\Debug\net5.0-windows\Products Management.csprojAssemblyReference.cache
+E:\c#\Products Management\obj\Debug\net5.0-windows\Products_Management.PL.Frm_login.resources
+E:\c#\Products Management\obj\Debug\net5.0-windows\Products_Management.PL.Frm_Main.resources
+E:\c#\Products Management\obj\Debug\net5.0-windows\Products Management.csproj.GenerateResource.cache
+E:\c#\Products Management\obj\Debug\net5.0-windows\Products Management.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Products Management\obj\Debug\net5.0-windows\Products Management.AssemblyInfoInputs.cache
+E:\c#\Products Management\obj\Debug\net5.0-windows\Products Management.AssemblyInfo.cs
+E:\c#\Products Management\obj\Debug\net5.0-windows\Products Management.csproj.CoreCompileInputs.cache
+E:\c#\Products Management\obj\Debug\net5.0-windows\Products Management.csproj.CopyComplete
+E:\c#\Products Management\obj\Debug\net5.0-windows\Products Management.dll
+E:\c#\Products Management\obj\Debug\net5.0-windows\ref\Products Management.dll
+E:\c#\Products Management\obj\Debug\net5.0-windows\Products Management.pdb
+E:\c#\Products Management\obj\Debug\net5.0-windows\Products Management.genruntimeconfig.cache
+E:\c#\Products Management\obj\Debug\net5.0-windows\Products_Management.Properties.Resources.resources
+E:\cs\Products Management\bin\Debug\net5.0-windows\Products Management.exe
+E:\cs\Products Management\bin\Debug\net5.0-windows\Products Management.deps.json
+E:\cs\Products Management\bin\Debug\net5.0-windows\Products Management.runtimeconfig.json
+E:\cs\Products Management\bin\Debug\net5.0-windows\Products Management.runtimeconfig.dev.json
+E:\cs\Products Management\bin\Debug\net5.0-windows\Products Management.dll
+E:\cs\Products Management\bin\Debug\net5.0-windows\ref\Products Management.dll
+E:\cs\Products Management\bin\Debug\net5.0-windows\Products Management.pdb
+E:\cs\Products Management\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+E:\cs\Products Management\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+E:\cs\Products Management\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+E:\cs\Products Management\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+E:\cs\Products Management\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\cs\Products Management\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\cs\Products Management\obj\Debug\net5.0-windows\Products Management.csproj.AssemblyReference.cache
+E:\cs\Products Management\obj\Debug\net5.0-windows\Products_Management.PL.Frm_login.resources
+E:\cs\Products Management\obj\Debug\net5.0-windows\Products_Management.PL.Frm_Main.resources
+E:\cs\Products Management\obj\Debug\net5.0-windows\Products_Management.Properties.Resources.resources
+E:\cs\Products Management\obj\Debug\net5.0-windows\Products Management.csproj.GenerateResource.cache
+E:\cs\Products Management\obj\Debug\net5.0-windows\Products Management.GeneratedMSBuildEditorConfig.editorconfig
+E:\cs\Products Management\obj\Debug\net5.0-windows\Products Management.AssemblyInfoInputs.cache
+E:\cs\Products Management\obj\Debug\net5.0-windows\Products Management.AssemblyInfo.cs
+E:\cs\Products Management\obj\Debug\net5.0-windows\Products Management.csproj.CoreCompileInputs.cache
+E:\cs\Products Management\obj\Debug\net5.0-windows\Products Management.csproj.CopyComplete
+E:\cs\Products Management\obj\Debug\net5.0-windows\Products Management.dll
+E:\cs\Products Management\obj\Debug\net5.0-windows\ref\Products Management.dll
+E:\cs\Products Management\obj\Debug\net5.0-windows\Products Management.pdb
+E:\cs\Products Management\obj\Debug\net5.0-windows\Products Management.genruntimeconfig.cache
